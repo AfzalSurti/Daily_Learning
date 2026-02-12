@@ -1,5 +1,5 @@
 # 📚 What I Learned — Distributed Systems Basics
-**Date:** February 10, 2026
+**Date:** February 11, 2026
 
 ---
 
